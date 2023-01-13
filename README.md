@@ -1,27 +1,20 @@
 <div id="header" align="center">
-    <img src="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA" width="200" />
-    <h1 align="center">Hi 👋, I'm YouDevs</h1>
-    <h3 align="center">A passionate web fullstack developer from México. I like teaching what I learn in my Social
-        Media: YouTube, Twitch and TikTok where you can find me like a YouDevs, and my secundary youtube channel: NKL
-        YouDevs.</h3>
+    <img src="" width="200" />
+    <h1 align="center">Hola 👋, soy Kevin Jiménez</h1>
+    <h3 align="center"></h3>
 </div>
 
 ---
 
-### 👨‍💻 About Me :
+### 👨‍💻 Acerca de mí :
 
-- 📝 I regularly upload videos on [https://www.youtube.com/youdevs](https://www.youtube.com/youdevs)
+- 📝 Estudiante en Ingeniería de Sistemas Informáticos 4º año.
 
-- 💬 Ask me about **PHP, Laravel, Python, Javascript**
+- 📫 Contacto **kevjmrisco@gmail.com**
 
-- 📫 How to reach me **carlos.develops@gmail.com**
-
-- 🌱 I’m currently learning **React.js, Blockchain, Web3 and Solidity**
-
-- 🌐 Website [youdevs.com](youdevs.com)
 
 <div align="left">
-    <h3>🔨 Languages and Tools:</h3>
+    <h3>🔨 Lenguajes y herramientas:</h3>
     <div>
        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -38,11 +31,13 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-      <img src="" title="" alt="" width="40" height="40"/>&nbsp;  
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/en/2/29/Quasar_Logo.png" title="" alt="" width="40" height="40"/>&nbsp;      
+      <!--<img src="" title="" alt="" width="40" height="40"/>&nbsp;-->
     </div>
   </div>
   
 ---
 
-### 📊 My Stats :
+### 📊 Mi Estado :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KevJM-es&theme=icegray&border_radius=17)](https://git.io/streak-stats)
