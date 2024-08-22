@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Acerca de mí :
 
-- 📝 Estudiante en Ingeniería de Sistemas Informáticos 4º año.
+- 📝 Estudiante en Ingeniería de Sistemas Informáticos 5º año.
 
 - 📫 Contacto **kevjmrisco@gmail.com**
 
